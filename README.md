@@ -30,7 +30,7 @@ python nuke-bot.py
 ```
 **[Subsequent launches]**
 ```console
-cd Discord-Nuke-Bot
+cd nuke-bot
 
 python nuke-bot.py
 ```
